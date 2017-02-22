@@ -15,7 +15,7 @@ A - Staging area is the space where file that needs to be commited is kept. So, 
 Q - What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-A - Thoughts pending
+A - Branch helps us to keep the history and make changes to the newly created branch. Branches are helpful if we just want to change our file or the game just for the sake of experimentation and don't want to change the original file.
 
 How do the diagrams help you visualize the branch structure?
 Thoughts pending
