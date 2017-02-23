@@ -1,29 +1,31 @@
 Q - What happens when you initialize a repository? Why do you need to do it?
-
 A - It creates a .git file. We need to do it so as to keep track of the changes we have made.
+
 
 Q - How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
 A - staging area contains file we need to commit a time but working directory contains the files that have been commmited.
+
 
 Q - How can you use the staging area to make sure you have one commit per logical
 change?
-
 A - Staging area is the space where file that needs to be commited is kept. So, before commiting a change staging area is checked to make sure that there is one commit per logical change.  
+
 
 Q - What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
 A - Branch helps us to keep the history and make changes to the newly created branch. Branches are helpful if we just want to change our file or the game just for the sake of experimentation and don't want to change the original file.
 
+
 How do the diagrams help you visualize the branch structure?
-Thoughts pending
+A - By drawing the diagram you can directly see the relations between commits and branches. This makes it clear where to find specific changes.
 
-What is the result of merging two branches together? Why do we represent it in
+
+Q - What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-Thoughts pending
+A - Merging two branches results in one branch with the properies of both the branches. The diagram helps us to know that in which branch, both the branches are merged in. 
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
+
+Q - What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
-thoughts pending
+A - Merging manually gives us option of in which branch we want to merge whereas the automatic merging will merge both the branches in the master branch, but automatic merging is easier.
