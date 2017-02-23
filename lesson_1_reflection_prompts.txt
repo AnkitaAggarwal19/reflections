@@ -1,33 +1,33 @@
-How did viewing a diff between two versions of a file help you see the bug that
+Q - How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
+A - The minus sign shows what lines of codes has been removed from the the original file and the plus sign shows what new lines of codes has been created in the new file. Thus helping in figuring out the bug introduced. 
+________________________________________________________________________________________________________________________________________________
 
-    Fill in your answer here
-
-How could having easy access to the entire history of a file make you a more
+Q - How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
+A - Having the history helps us to know what logical changes we have made in our file.
+________________________________________________________________________________________________________________________________________________
 
-    Fill in your answer here
-
-What do you think are the pros and cons of manually choosing when to create a
+Q - What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
+A - A person may create so many commits even if it is not needed. Also it may not save the changes we have made it a person takes too long to do a commit.
+________________________________________________________________________________________________________________________________________________
 
-    Fill in your answer here
-
-Why do you think some version control systems, like Git, allow saving multiple
+Q - Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
+A - May be to save the memory.
+________________________________________________________________________________________________________________________________________________
 
-    Fill in your answer here
+Q - How can you use the commands git log and git diff to view the history of files?
+A - git log will show all the commits we have made till now showing the most recent commit at the top. git diff shows the difference between two versions of a file.
+________________________________________________________________________________________________________________________________________________
 
-How can you use the commands git log and git diff to view the history of files?
-
-    Fill in your answer here
-
-How might using version control make you more confident to make changes that
+Q - How might using version control make you more confident to make changes that
 could break something?
+A - By using version-control, we can track the changes we have made at any time so as to bring the program to its original form if any bug has been introduced. 
+________________________________________________________________________________________________________________________________________________
 
-    Fill in your answer here
-
-Now that you have your workspace set up, what do you want to try using Git for?
-
-    Fill in your answer here
+Q - Now that you have your workspace set up, what do you want to try using Git for?
+A - To create a repository.
+________________________________________________________________________________________________________________________________________________
