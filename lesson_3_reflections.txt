@@ -1,0 +1,2 @@
+When would you want to create a remote repository rather than keeping all your work local?
+        If we want make our work global and share it with other people to get their thoughts on something, this is when we create a remote repository.
