@@ -1,2 +1,5 @@
-When would you want to create a remote repository rather than keeping all your work local?
-        If we want make our work global and share it with other people to get their thoughts on something, this is when we create a remote repository.
+Q - When would you want to create a remote repository rather than keeping all your work local?
+A -      If we want make our work global and share it with other people to get their thoughts on something, this is when we create a remote repository.
+
+Q - Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A -      Forks is a copy of some repository on your github account. Clone is the replica of a repository on your pc. Branches are made when you want to create a new environment to try out new ideas. We use forks so that we can have our own repository and we can make changes in it. Branches are used for experimenting new commits so that it does not affect the master branch.
